@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgba(29,29,31,08);
+}
+.radhika
+{
+    display: flex;
+    justify-content: space-around ;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.laku
+{
+    font-size: 12px;
+    text-decoration: none;
+    color: white;
+}
+a{
+    padding: 0px;text-decoration: none;color: white;
+}
